@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <script type="text/javascript" src="gist.js"></script>
+        
+        
+    </head>
+
+    <body>
+        
+            <legend>Options for gist retrieval</legend>
+            <label>How many gist pages would you like to view?</label>
+            <input type="number" id="numPages" value=1>
+            <p>What language of gitst do you want?(selecting nothing will return all)</p>
+            <label><input type = "checkbox" id = "javascript" value = "JavaScript" />JavaScript</label>
+            <label><input type = "checkbox" id = "python" value = "Python" />Python</label>
+            <label><input type = "checkbox" id = "json" value = "JSON" />JSON</label>
+            <label><input type = "checkbox" id = "sql" value = "SQL" />SQL</label>
+            <button onClick="searchGist()">Search</button>
+        <div>
+            <div id="gists" class="gist" style = "float: left"  >
+            <p>Gists</p>
+            </div>
+            <div id="favorites" >
+            <p>Favorites</p>
+            </div>
+        </div>
+
+    </body>

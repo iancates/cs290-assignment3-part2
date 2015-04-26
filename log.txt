@@ -1,0 +1,35 @@
+Start: Tue, 21 Apr 2015 12:44:32 -0800
+Wrote code for function.js about half an hour
+Debugged the code until it worked for about an hour
+End: Tue, 21 Apr 2015 14:44:20 -0800
+
+Start: Tue, 21 Apr 2015 15:30:55 -0800
+Wrote code for object.js
+Started debugging
+End: Tue, 21 Apr 2015 18:55:13 -0800
+
+
+Start: Tue, 21 Apr 2015 19:55:03 -0800
+finished debugging object.js
+Wrote code for variables.js
+debugged variables.js
+End: Tue, 21 Apr 2015 19:13:57 -0800
+
+Start: Wed, 22 Apr 2015 13:44:33 -0800
+Started writing code to get the gist search to work.
+After much trouble did some online research.
+Think I got search to work.
+End: Wed, 22 Apr 2015 18:07:47 -0800
+
+Start: Thu, 23 Apr 2015 10:31:20 -0800
+Worked on saving to favorites.
+Trouble removing from list and then adding to favorites.
+After some online research I figured it out.
+Had trouble with local storage.
+Did some research on local storage.
+Things saving right!!
+End: Thu, 23 Apr 2015 15:53:18 -0800
+
+Start: Fri, 24 Apr 2015 15:45:01 -0800
+Did some finishing touches.
+End: Fri, 24 Apr 2015 16:50:20 -0800
